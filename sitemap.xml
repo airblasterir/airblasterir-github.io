@@ -3,43 +3,43 @@
 xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
    <url>
       <loc>https://airblaster.ir/index.html</loc>
-      <lastmod>2024-08-12T11:03:37+03:30</lastmod>
+      <lastmod>2024-08-12T17:18:32+03:30</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
    </url>
    <url>
-      <loc>https://airblaster.ir/wpscripts/aboutus.html</loc>
-      <lastmod>2024-08-12T11:03:37+03:30</lastmod>
+      <loc>https://airblaster.ir/wpscripts/big-blaster.html</loc>
+      <lastmod>2024-08-12T17:18:32+03:30</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
    </url>
    <url>
-      <loc>https://airblaster.ir/wpscripts/services.html</loc>
-      <lastmod>2024-08-12T11:03:37+03:30</lastmod>
+      <loc>https://airblaster.ir/wpscripts/air-blaster.html</loc>
+      <lastmod>2024-08-12T17:18:32+03:30</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
    </url>
    <url>
-      <loc>https://airblaster.ir/wpscripts/contactus.html</loc>
-      <lastmod>2024-08-12T11:03:37+03:30</lastmod>
+      <loc>https://airblaster.ir/wpscripts/contact-us.html</loc>
+      <lastmod>2024-08-12T17:18:32+03:30</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
    </url>
    <url>
-      <loc>https://airblaster.ir/wpscripts/article01.html</loc>
-      <lastmod>2024-08-12T11:03:37+03:30</lastmod>
+      <loc>https://airblaster.ir/wpscripts/air-blaster-industrial.html</loc>
+      <lastmod>2024-08-12T17:18:32+03:30</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
    </url>
    <url>
-      <loc>https://airblaster.ir/wpscripts/xhv4-in.html</loc>
-      <lastmod>2024-08-12T11:03:37+03:30</lastmod>
+      <loc>https://airblaster.ir/wpscripts/martin-air-cannon-xhv4-in.html</loc>
+      <lastmod>2024-08-12T17:18:32+03:30</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
    </url>
    <url>
       <loc>https://airblaster.ir/wpscripts/searchresults.html</loc>
-      <lastmod>2024-08-12T11:03:37+03:30</lastmod>
+      <lastmod>2024-08-12T17:18:32+03:30</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
    </url>
