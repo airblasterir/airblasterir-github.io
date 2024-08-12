@@ -101,9 +101,9 @@
       $('#slider_1').data('wpslider', new $.fn.wpslider( { g_nDivId:'#slider_1', g_nTransitStyle:2, g_nLoopTime:4000, g_nAnimationTime:500, g_bPlayAtStart:true, g_strEasing: "linear" } ) );
       var btnState = [];
       $("a.ActiveButton").bind({ mousedown:function(){if ( $(this).attr('disabled') === undefined ) $(this).addClass('Activated');}, mouseleave:function(){ if ( $(this).attr('disabled') === undefined ) $(this).removeClass('Activated');}, mouseup:function(){ if ( $(this).attr('disabled') === undefined ) $(this).removeClass('Activated');}});
-      $('#site_search_1_input').keypress(function(event) { if ( event.keyCode == 13 ) window.location.href = 'wpscripts/searchresults.html?site_search_results_1='+document.getElementById('site_search_1_input').value+'&depth=0&swr=false'; });
+      $('#site_search_1_input').keypress(function(event) { if ( event.keyCode == 13 ) window.location.href = 'searchresults.html?site_search_results_1='+document.getElementById('site_search_1_input').value+'&depth=0&swr=false'; });
 
-      $('#site_search_1_button').click(function(event) { window.location.href = 'wpscripts/searchresults.html?site_search_results_1='+document.getElementById('site_search_1_input').value+'&depth=0&swr=false'; });
+      $('#site_search_1_button').click(function(event) { window.location.href = 'searchresults.html?site_search_results_1='+document.getElementById('site_search_1_input').value+'&depth=0&swr=false'; });
 
       $('#slider_4').data('wpslider').restrictSlides();
       $('#slider_5').data('wpslider').restrictSlides();
@@ -162,7 +162,7 @@
         <p class="Fine-Print2 P-1"><span class="C-5">تهران خیابان ایت لله &nbsp;کاشانی بلوار اباذر ساختمان &nbsp;گلشن طبقه چهارم &nbsp;&nbsp;</span></p>
         <p class="Body"><span class="C-6"><br></span></p>
       </div>
-      <div style="position:absolute;left:250px;top:22px;width:710px;height:76px;overflow:hidden;">
+      <div style="position:absolute;left:250px;top:0px;width:710px;height:98px;overflow:hidden;">
         <p class="Body P-2"><a href="index.html" class="C-7">فروش انواع ایر بلاستر های شرکت مارتین</a></p>
       </div>
       <img alt="" src="wpimages/wp3a7e292b_06.png" style="position:absolute;left:29px;top:1676px;width:959px;height:55px;">
